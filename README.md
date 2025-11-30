@@ -1,2 +1,2 @@
 # Githubbasics
-Imp commands of git
+Imp commands of git and github
